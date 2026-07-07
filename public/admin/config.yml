@@ -1,7 +1,6 @@
-local_backend: true
 backend:
   name: github
-  repo: abdulghofurulinnuha66-sys/kkn-web
+  repo: abdulghofurulinnuha66-sys/webkkn46tondomulo
   branch: main
 
 media_folder: "public/images/uploads"
