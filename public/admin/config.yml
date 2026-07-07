@@ -1,0 +1,114 @@
+local_backend: true
+backend:
+  name: github
+  repo: abdulghofurulinnuha66-sys/kkn-web
+  branch: main
+
+media_folder: "public/images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "program-kerja"
+    label: "Program Kerja"
+    folder: "src/content/proker"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Judul", name: "title", widget: "string"}
+      - {label: "Tanggal", name: "date", widget: "datetime"}
+      - {label: "Ringkasan", name: "excerpt", widget: "text"}
+      - {label: "Gambar (opsional)", name: "image", widget: "image", required: false}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Isi", name: "body", widget: "markdown"}
+
+  - name: "pengaturan"
+    label: "Pengaturan & Data"
+    files:
+      - file: "src/content/data/desa.json"
+        label: "Data Desa"
+        name: "desa"
+        fields:
+          - {label: "Nama Desa", name: "nama", widget: "string"}
+          - {label: "Nama KKN", name: "kknName", widget: "string"}
+          - {label: "DPL", name: "dpl", widget: "string"}
+          - {label: "Kecamatan", name: "kecamatan", widget: "string"}
+          - {label: "Kabupaten", name: "kabupaten", widget: "string"}
+          - {label: "Provinsi", name: "provinsi", widget: "string"}
+          - {label: "Kode Pos", name: "kodePos", widget: "string", required: false}
+          - {label: "Luas Wilayah", name: "luasWilayah", widget: "string"}
+          - {label: "Jumlah Penduduk", name: "jumlahPenduduk", widget: "number"}
+          - {label: "Jumlah KK", name: "jumlahKK", widget: "number"}
+          - {label: "Ketinggian", name: "ketinggian", widget: "string"}
+          - {label: "Tagline", name: "tagline", widget: "string"}
+          - {label: "Deskripsi Singkat", name: "deskripsiSingkat", widget: "text"}
+          - {label: "Sejarah", name: "sejarah", widget: "markdown"}
+          - {label: "Visi", name: "visi", widget: "text"}
+          - {label: "Misi", name: "misi", widget: "list"}
+          - label: "Potensi Desa"
+            name: "potensi"
+            widget: "list"
+            fields:
+              - {label: "Nama Potensi", name: "nama", widget: "string"}
+              - {label: "Deskripsi", name: "deskripsi", widget: "text"}
+              - {label: "Icon (Emoji)", name: "icon", widget: "string"}
+          - label: "Batas Wilayah"
+            name: "batasWilayah"
+            widget: "object"
+            fields:
+              - {label: "Utara", name: "utara", widget: "string"}
+              - {label: "Selatan", name: "selatan", widget: "string"}
+              - {label: "Barat", name: "barat", widget: "string"}
+              - {label: "Timur", name: "timur", widget: "string"}
+
+      - file: "src/content/data/stats.json"
+        label: "Statistik KKN"
+        name: "statistik"
+        fields:
+          - label: "Program Kerja"
+            name: "programKerja"
+            widget: "object"
+            fields:
+              - {label: "Label", name: "label", widget: "string"}
+              - {label: "Value", name: "value", widget: "number"}
+              - {label: "Suffix", name: "suffix", widget: "string"}
+              - {label: "Icon (Emoji)", name: "icon", widget: "string"}
+          - label: "Warga Terbantu"
+            name: "wargaTerbantu"
+            widget: "object"
+            fields:
+              - {label: "Label", name: "label", widget: "string"}
+              - {label: "Value", name: "value", widget: "number"}
+              - {label: "Suffix", name: "suffix", widget: "string"}
+              - {label: "Icon (Emoji)", name: "icon", widget: "string"}
+          - label: "Hari Pengabdian"
+            name: "hariPengabdian"
+            widget: "object"
+            fields:
+              - {label: "Label", name: "label", widget: "string"}
+              - {label: "Value", name: "value", widget: "number"}
+              - {label: "Suffix", name: "suffix", widget: "string"}
+              - {label: "Icon (Emoji)", name: "icon", widget: "string"}
+          - label: "Anggota KKN"
+            name: "anggota"
+            widget: "object"
+            fields:
+              - {label: "Label", name: "label", widget: "string"}
+              - {label: "Value", name: "value", widget: "number"}
+              - {label: "Suffix", name: "suffix", widget: "string"}
+              - {label: "Icon (Emoji)", name: "icon", widget: "string"}
+
+      - file: "src/content/data/anggota.json"
+        label: "Data Anggota"
+        name: "anggota_kkn"
+        fields:
+          - label: "Anggota"
+            name: "anggota"
+            widget: "list"
+            fields:
+              - {label: "ID", name: "id", widget: "number"}
+              - {label: "Nama", name: "nama", widget: "string"}
+              - {label: "Jabatan", name: "jabatan", widget: "string"}
+              - {label: "Universitas", name: "universitas", widget: "string", required: false}
+              - {label: "Jurusan / Prodi", name: "jurusan", widget: "string"}
+              - {label: "Foto (opsional)", name: "foto", widget: "image", required: false}
+              - {label: "WhatsApp", name: "whatsapp", widget: "string", required: false}

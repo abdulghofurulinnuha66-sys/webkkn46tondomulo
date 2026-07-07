@@ -1,0 +1,45 @@
+{
+  "nama": "Desa Tondomulo",
+  "kknName": "KKN 46 - Kedungadem - Tondomulo",
+  "dpl": "ANISA FITRI, S.Pd, M.Pd dan Ir. AGUS SULISTIAWAN, S.Pd, M.T",
+  "kecamatan": "Kecamatan Kedungadem",
+  "kabupaten": "Kabupaten Bojonegoro",
+  "provinsi": "Jawa Timur",
+  "kodePos": "",
+  "luasWilayah": "-",
+  "jumlahPenduduk": 0,
+  "jumlahKK": 0,
+  "ketinggian": "-",
+  "tagline": "Membangun Desa, Membangun Indonesia",
+  "deskripsiSingkat": "Desa Tondomulo terletak di Kecamatan Kedungadem, Kabupaten Bojonegoro, Jawa Timur. Menjadi lokasi pengabdian KKN 46.",
+  "sejarah": "Desa Tondomulo merupakan sebuah desa yang terletak di Kecamatan Kedungadem, Kabupaten Bojonegoro, Jawa Timur.",
+  "visi": "Terwujudnya Desa Tondomulo yang mandiri, sejahtera, dan berbudaya melalui pemberdayaan masyarakat dan pemanfaatan potensi lokal.",
+  "misi": [
+    "Meningkatkan kualitas sumber daya manusia melalui pendidikan dan pelatihan",
+    "Mengembangkan potensi lokal",
+    "Melestarikan budaya dan kearifan lokal",
+    "Membangun infrastruktur desa yang memadai dan berkelanjutan",
+    "Meningkatkan kesejahteraan masyarakat melalui pemberdayaan UMKM"
+  ],
+  "perangkatDesa": [
+    { "jabatan": "Kepala Desa", "nama": "-" }
+  ],
+  "potensi": [
+    {
+      "nama": "Pertanian",
+      "deskripsi": "Pertanian dan perkebunan warga lokal.",
+      "icon": "🌾"
+    },
+    {
+      "nama": "Pemberdayaan Masyarakat",
+      "deskripsi": "Kegiatan peningkatan kualitas hidup dan ekonomi warga.",
+      "icon": "👥"
+    }
+  ],
+  "batasWilayah": {
+    "utara": "-",
+    "selatan": "-",
+    "barat": "-",
+    "timur": "-"
+  }
+}

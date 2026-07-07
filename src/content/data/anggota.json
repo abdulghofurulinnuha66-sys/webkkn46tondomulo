@@ -1,0 +1,130 @@
+{
+  "anggota": [
+    {
+      "id": 2,
+      "nama": "RINA SEPTIYANI",
+      "jabatan": "Anggota",
+      "universitas": "",
+      "jurusan": "Prodi S1 Pendidikan Islam Anak Usia Dini",
+      "foto": "",
+      "whatsapp": "085526260769"
+    },
+    {
+      "id": 1,
+      "nama": "ABDUL GHOFUR ULIN NUHA",
+      "jabatan": "Anggota",
+      "universitas": "",
+      "jurusan": "Prodi S1 Sistem Komputer",
+      "foto": "/images/uploads/aq.jpg",
+      "whatsapp": "0816-1568-1321"
+    },
+    {
+      "id": 3,
+      "nama": "PUTRI NUR INDAH",
+      "jabatan": "Anggota",
+      "universitas": "",
+      "jurusan": "Prodi S1 Bimbingan Konseling",
+      "foto": "",
+      "whatsapp": "082137550024"
+    },
+    {
+      "id": 4,
+      "nama": "IFAN FERDIANSYAH",
+      "jabatan": "Anggota",
+      "universitas": "",
+      "jurusan": "Prodi S1 Pendi. Jasmani Kesehatan dan Rekreasi",
+      "foto": "",
+      "whatsapp": "083834834244"
+    },
+    {
+      "id": 5,
+      "nama": "MUHAMMAD ALBAR",
+      "jabatan": "Anggota",
+      "universitas": "",
+      "jurusan": "Prodi S1 Hukum Ekonomi Syari'ah",
+      "foto": "",
+      "whatsapp": "081359041048"
+    },
+    {
+      "id": 6,
+      "nama": "HIDAYATUL KUSNA",
+      "jabatan": "Anggota",
+      "universitas": "",
+      "jurusan": "Prodi S1 Pendidikan Agama Islam",
+      "foto": "",
+      "whatsapp": "085858485707"
+    },
+    {
+      "id": 7,
+      "nama": "SOFIA EMILIANA",
+      "jabatan": "Anggota",
+      "universitas": "",
+      "jurusan": "Prodi S1 Statistika",
+      "foto": "",
+      "whatsapp": "085604317059"
+    },
+    {
+      "id": 8,
+      "nama": "RITA NUR KHOLIDA",
+      "jabatan": "Anggota",
+      "universitas": "",
+      "jurusan": "Prodi S1 Pendidikan Agama Islam",
+      "foto": "",
+      "whatsapp": "085784809483"
+    },
+    {
+      "id": 9,
+      "nama": "ANNI DAUL BIROH",
+      "jabatan": "Anggota",
+      "universitas": "",
+      "jurusan": "Prodi S1 Pendidikan Agama Islam",
+      "foto": "",
+      "whatsapp": "081553570680"
+    },
+    {
+      "id": 10,
+      "nama": "DINDA FRANSISKA ANGGRAINI PUTRI",
+      "jabatan": "Anggota",
+      "universitas": "",
+      "jurusan": "Prodi S1 Teknik Informatika",
+      "foto": "",
+      "whatsapp": "082143441893"
+    },
+    {
+      "id": 11,
+      "nama": "M. FERRY AFFANDI",
+      "jabatan": "Anggota",
+      "universitas": "",
+      "jurusan": "Prodi S1 Hukum Keluarga Islam",
+      "foto": "",
+      "whatsapp": "085708538175"
+    },
+    {
+      "id": 12,
+      "nama": "SITI DIAJENG MEVA MAULANDARI",
+      "jabatan": "Anggota",
+      "universitas": "",
+      "jurusan": "Prodi S1 Pendidikan Guru Madrasah Ibtidaiyah",
+      "foto": "",
+      "whatsapp": "083851902206"
+    },
+    {
+      "id": 13,
+      "nama": "RENDYKA HANIFATUR SEPTIANSYAH",
+      "jabatan": "Anggota",
+      "universitas": "",
+      "jurusan": "Prodi S1 Teknik Mesin",
+      "foto": "",
+      "whatsapp": "082195359732"
+    },
+    {
+      "id": 14,
+      "nama": "REVANIA MARSYA ANANTA",
+      "jabatan": "Anggota",
+      "universitas": "",
+      "jurusan": "Prodi S1 Farmasi",
+      "foto": "",
+      "whatsapp": "085784877400"
+    }
+  ]
+}
