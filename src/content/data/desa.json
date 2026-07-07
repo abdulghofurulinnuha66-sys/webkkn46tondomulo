@@ -5,41 +5,42 @@
   "kecamatan": "Kecamatan Kedungadem",
   "kabupaten": "Kabupaten Bojonegoro",
   "provinsi": "Jawa Timur",
-  "kodePos": "",
-  "luasWilayah": "-",
-  "jumlahPenduduk": 0,
-  "jumlahKK": 0,
-  "ketinggian": "-",
+  "kodePos": "62195",
+  "luasWilayah": "1.802 hektar (ha)",
+  "jumlahPenduduk": 7499,
+  "jumlahKK": 1800,
+  "ketinggian": "25 - 287,5 m",
   "tagline": "Membangun Desa, Membangun Indonesia",
-  "deskripsiSingkat": "Desa Tondomulo terletak di Kecamatan Kedungadem, Kabupaten Bojonegoro, Jawa Timur. Menjadi lokasi pengabdian KKN 46.",
-  "sejarah": "Desa Tondomulo merupakan sebuah desa yang terletak di Kecamatan Kedungadem, Kabupaten Bojonegoro, Jawa Timur.",
-  "visi": "Terwujudnya Desa Tondomulo yang mandiri, sejahtera, dan berbudaya melalui pemberdayaan masyarakat dan pemanfaatan potensi lokal.",
+  "deskripsiSingkat": "Desa Tondomulo terletak di Kecamatan Kedungadem, Kabupaten Bojonegoro, Jawa Timur. Menjadi lokasi pengabdian KKN Pintar 46 Universitas Nahdlatul Ulama Sunan Giri (Unugiri).",
+  "sejarah": "Desa Tondomulo merupakan sebuah desa yang terletak di Kecamatan Kedungadem, Kabupaten Bojonegoro, Jawa Timur. Desa ini  merupakan salah satu wilayah yang memiliki area cukup luas dengan 7 dusun, menjadikannya desa dengan jumalah dusun terbanyak di Kecamatan Kedungadem. dan desa ini mempunyai budaya dan sejarah lokal yaitu situs punden petilasan Mbah Kobot (Kyai Panji Kusumo dan Kyai Kusumo Sari) yang dihormati sebagai tokoh babad desa juga pengikut  Pangeran Diponegoro, Serta mempunyai tradisi atau adat leluhur seperti upacara Sedekah Bumi dan tradisi Blanag Sego (Perang Nasi) sebagi wujud syukur dan kerukunan anatar dusun.",
+  "visi": "Terwujudnya tata kelola Pemerintahan Desa Tondomulo yang responsif, transparan, dan maju demi terciptanya  masyrakat sejahtera , berbudaya, serta mandiri.",
   "misi": [
-    "Meningkatkan kualitas sumber daya manusia melalui pendidikan dan pelatihan",
-    "Mengembangkan potensi lokal",
     "Melestarikan budaya dan kearifan lokal",
     "Membangun infrastruktur desa yang memadai dan berkelanjutan",
-    "Meningkatkan kesejahteraan masyarakat melalui pemberdayaan UMKM"
-  ],
-  "perangkatDesa": [
-    { "jabatan": "Kepala Desa", "nama": "-" }
+    "pemberdayaan UMKM"
   ],
   "potensi": [
     {
-      "nama": "Pertanian",
-      "deskripsi": "Pertanian dan perkebunan warga lokal.",
+      "nama": "Pertanian & Perkebunan",
+      "deskripsi": "Sebagai desa dengan wilayah luas, Pertanian menjadi penopang utama perekonomian warga desa seperti Padi, Jagung, Tembakau",
       "icon": "🌾"
     },
     {
-      "nama": "Pemberdayaan Masyarakat",
-      "deskripsi": "Kegiatan peningkatan kualitas hidup dan ekonomi warga.",
+      "nama": "Industri Kreatif & UMKM",
+      "deskripsi": "Kerajianan Anyaman  Pandan turun menurun warga desa dalam mengolah daun pandan menjadi kerajianan bernialai jual tinggi. Ini menjadi salah satu produk UMKM andalan desa.",
       "icon": "👥"
     }
   ],
   "batasWilayah": {
-    "utara": "-",
-    "selatan": "-",
-    "barat": "-",
-    "timur": "-"
-  }
+    "utara": "Desa Panjang",
+    "selatan": "Pegunungan Kendeng Nganjuk",
+    "barat": "Desa Panjang",
+    "timur": "Desa Kesongo"
+  },
+  "perangkatDesa": [
+    {
+      "jabatan": "Kepala Desa",
+      "nama": "-"
+    }
+  ]
 }
