@@ -1,15 +1,6 @@
 {
   "anggota": [
     {
-      "id": 2,
-      "nama": "RINA SEPTIYANI",
-      "jabatan": "Anggota",
-      "universitas": "",
-      "jurusan": "Prodi S1 Pendidikan Islam Anak Usia Dini",
-      "foto": "",
-      "whatsapp": "085526260769"
-    },
-    {
       "id": 1,
       "nama": "ABDUL GHOFUR ULIN NUHA",
       "jabatan": "Anggota",
@@ -17,6 +8,15 @@
       "jurusan": "Prodi S1 Sistem Komputer",
       "foto": "/images/uploads/aq.jpg",
       "whatsapp": "0816-1568-1321"
+    },
+    {
+      "id": 2,
+      "nama": "RINA SEPTIYANI",
+      "jabatan": "Anggota",
+      "universitas": "",
+      "jurusan": "Prodi S1 Pendidikan Islam Anak Usia Dini",
+      "foto": "",
+      "whatsapp": "085526260769"
     },
     {
       "id": 3,
