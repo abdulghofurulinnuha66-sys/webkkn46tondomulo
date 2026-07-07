@@ -1,18 +1,21 @@
 import HeroSection from '@/components/HeroSection';
+import ProfilKKNSection from '@/components/ProfilKKNSection';
 import StatsSection from '@/components/StatsSection';
 import GallerySection from '@/components/GallerySection';
 import ProkerCard from '@/components/ProkerCard';
-import { getStatsData } from '@/lib/data';
+import { getStatsData, getDesaData } from '@/lib/data';
 import { getAllProker } from '@/lib/markdown';
 import Link from 'next/link';
 
 export default function HomePage() {
   const stats = getStatsData();
   const prokerList = getAllProker();
+  const desa = getDesaData();
 
   return (
     <>
       <HeroSection />
+      <ProfilKKNSection desa={desa} />
       <StatsSection stats={stats} />
 
       {/* Program Kerja Section */}
