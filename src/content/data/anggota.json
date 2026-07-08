@@ -13,7 +13,7 @@
       "id": 2,
       "nama": "RINA SEPTIYANI",
       "jabatan": "Anggota",
-      "universitas": "",
+      "universitas": "Unugiri",
       "jurusan": "Prodi S1 Pendidikan Islam Anak Usia Dini",
       "foto": "",
       "whatsapp": "085526260769"
@@ -91,13 +91,13 @@
       "whatsapp": "082143441893"
     },
     {
-      "id": 11,
+      "id": 1,
       "nama": "M. FERRY AFFANDI",
-      "jabatan": "Anggota",
-      "universitas": "",
+      "jabatan": "Ketua",
+      "universitas": "Unugiri",
       "jurusan": "Prodi S1 Hukum Keluarga Islam",
-      "foto": "",
-      "whatsapp": "085708538175"
+      "foto": "/images/uploads/pasted-image-1783490138585.png",
+      "whatsapp": "-"
     },
     {
       "id": 12,
