@@ -21,14 +21,14 @@
   ],
   "potensi": [
     {
-      "nama": "Pertanian & Perkebunan",
+      "nama": "Pertanian",
       "deskripsi": "Sebagai desa dengan wilayah luas, Pertanian menjadi penopang utama perekonomian warga desa seperti Padi, Jagung, Tembakau",
       "icon": "🌾"
     },
     {
       "nama": "Industri Kreatif & UMKM",
       "deskripsi": "Kerajianan Anyaman  Pandan turun menurun warga desa dalam mengolah daun pandan menjadi kerajianan bernialai jual tinggi. Ini menjadi salah satu produk UMKM andalan desa.",
-      "icon": "👥"
+      "icon": "👏"
     }
   ],
   "batasWilayah": {
